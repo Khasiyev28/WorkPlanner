@@ -1,0 +1,16 @@
+C:\Users\Mahir\source\repos\WorkPlanner\WorkPlanner\bin\Debug\net8.0-windows\WorkPlanner.exe
+C:\Users\Mahir\source\repos\WorkPlanner\WorkPlanner\bin\Debug\net8.0-windows\WorkPlanner.deps.json
+C:\Users\Mahir\source\repos\WorkPlanner\WorkPlanner\bin\Debug\net8.0-windows\WorkPlanner.runtimeconfig.json
+C:\Users\Mahir\source\repos\WorkPlanner\WorkPlanner\bin\Debug\net8.0-windows\WorkPlanner.dll
+C:\Users\Mahir\source\repos\WorkPlanner\WorkPlanner\bin\Debug\net8.0-windows\WorkPlanner.pdb
+C:\Users\Mahir\source\repos\WorkPlanner\WorkPlanner\obj\Debug\net8.0-windows\WorkPlanner.Form1.resources
+C:\Users\Mahir\source\repos\WorkPlanner\WorkPlanner\obj\Debug\net8.0-windows\WorkPlanner.csproj.GenerateResource.cache
+C:\Users\Mahir\source\repos\WorkPlanner\WorkPlanner\obj\Debug\net8.0-windows\WorkPlanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahir\source\repos\WorkPlanner\WorkPlanner\obj\Debug\net8.0-windows\WorkPlanner.AssemblyInfoInputs.cache
+C:\Users\Mahir\source\repos\WorkPlanner\WorkPlanner\obj\Debug\net8.0-windows\WorkPlanner.AssemblyInfo.cs
+C:\Users\Mahir\source\repos\WorkPlanner\WorkPlanner\obj\Debug\net8.0-windows\WorkPlanner.csproj.CoreCompileInputs.cache
+C:\Users\Mahir\source\repos\WorkPlanner\WorkPlanner\obj\Debug\net8.0-windows\WorkPlanner.dll
+C:\Users\Mahir\source\repos\WorkPlanner\WorkPlanner\obj\Debug\net8.0-windows\refint\WorkPlanner.dll
+C:\Users\Mahir\source\repos\WorkPlanner\WorkPlanner\obj\Debug\net8.0-windows\WorkPlanner.pdb
+C:\Users\Mahir\source\repos\WorkPlanner\WorkPlanner\obj\Debug\net8.0-windows\WorkPlanner.genruntimeconfig.cache
+C:\Users\Mahir\source\repos\WorkPlanner\WorkPlanner\obj\Debug\net8.0-windows\ref\WorkPlanner.dll
